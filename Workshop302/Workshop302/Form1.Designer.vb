@@ -61,7 +61,7 @@ Partial Class Form1
         Me.TextBoxPassword.Name = "TextBoxPassword"
         Me.TextBoxPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.TextBoxPassword.Size = New System.Drawing.Size(167, 20)
-        Me.TextBoxPassword.TabIndex = 4
+        Me.TextBoxPassword.TabIndex = 2
         '
         'Label1
         '
@@ -76,9 +76,8 @@ Partial Class Form1
         '
         Me.TextBoxUsername.Location = New System.Drawing.Point(104, 7)
         Me.TextBoxUsername.Name = "TextBoxUsername"
-        Me.TextBoxUsername.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.TextBoxUsername.Size = New System.Drawing.Size(167, 20)
-        Me.TextBoxUsername.TabIndex = 7
+        Me.TextBoxUsername.TabIndex = 1
         '
         'Label2
         '
@@ -102,7 +101,7 @@ Partial Class Form1
         Me.TextBoxPasswordCheck.Name = "TextBoxPasswordCheck"
         Me.TextBoxPasswordCheck.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.TextBoxPasswordCheck.Size = New System.Drawing.Size(167, 20)
-        Me.TextBoxPasswordCheck.TabIndex = 9
+        Me.TextBoxPasswordCheck.TabIndex = 3
         '
         'Label4
         '
@@ -174,9 +173,8 @@ Partial Class Form1
         '
         Me.TextBoxLanguageOther.Location = New System.Drawing.Point(148, 105)
         Me.TextBoxLanguageOther.Name = "TextBoxLanguageOther"
-        Me.TextBoxLanguageOther.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.TextBoxLanguageOther.Size = New System.Drawing.Size(107, 20)
-        Me.TextBoxLanguageOther.TabIndex = 13
+        Me.TextBoxLanguageOther.TabIndex = 4
         '
         'CheckBoxLanguageOther
         '
